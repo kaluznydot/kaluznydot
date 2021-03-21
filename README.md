@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @kaluznydot
+- 🌱 I’m currently learning C in CS50.
